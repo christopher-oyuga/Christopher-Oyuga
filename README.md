@@ -32,18 +32,18 @@ Currently exploring **JavaScript**, **React**, and **backend technologies** to e
 
 ---
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=christopher-oyuga&theme=tokyonight&hide_border=true)  
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christopher-oyuga&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/christopher-oyuga/christopher-oyuga/blob/output/github-contribution-grid-snake.svg)  
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/christopher-oyuga/Christopher-Oyuga/blob/main/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 👀 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=christopher-oyuga&style=for-the-badge)  
+## 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=christopher-oyuga&style=for-the-badge)
 
 ---
 
