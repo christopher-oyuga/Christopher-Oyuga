@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher Oyuga
 
-💻 Frontend Web Developer | 🌐 Aspiring Full-Stack Engineer | 🎨 Graphic Designer | 🎥 Content Creator  
+💻 **Frontend Web Developer.** | 🌐 **Aspiring Full-Stack Engineer.** | 🎨 **Graphic Designer.** | 🎥 **Content Creator.**  
 
 I enjoy turning ideas into interactive experiences, building modern web applications, and creating visually engaging content.  
 
@@ -17,7 +17,7 @@ I enjoy turning ideas into interactive experiences, building modern web applicat
 ---
 
 ## 🛠️ Skills
-HTML5 | CSS3 | JavaScript | Git | GitHub | React | Canva | Photoshop | Animation  
+**HTML5 | CSS3 | JavaScript | Git | GitHub | React | Canva | Photoshop | Animation ** 
 
 ---
 
