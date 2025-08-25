@@ -12,7 +12,7 @@ Currently exploring **JavaScript**, **React**, and **backend technologies** to e
 - 🌱 I’m learning: **React, Node.js, APIs**  
 - 👯 I’m looking to collaborate on: Open-source or exciting frontend projects  
 - 💬 Ask me about: **HTML, CSS, JavaScript, Web Design, Animation and Graohic Design-(CANVA,PHOTOSHOP..)**  
-- 📫 Reach me: christopheropyuga@gmail.com |linkeDin.about:bl| **[Portfolio](https://christopherportfolio-dun.vercel.app/)**  
+- 📫 Reach me:  **[Email]christopheroyga@gmail.com**|**[Linkedin][https://lnkd.in/eA2AS8gb**| **[Portfolio](https://christopherportfolio-dun.vercel.app/)**  
 - ⚡ Fun fact: I enjoy solving coding challenges and exploring new web technologies  
 
 ---
@@ -47,20 +47,3 @@ Currently exploring **JavaScript**, **React**, and **backend technologies** to e
 
 ---
 
-⭐️ From [christopher-oyuga](https://github.com/christopher-oyuga)
-## Hi there 👋
-
-<!--
-**christopher-oyuga/Christopher-Oyuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
