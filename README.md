@@ -40,8 +40,18 @@ HTML5 | CSS3 | JavaScript | Git | GitHub | React | Canva | Photoshop | Animation
 
 ---
 
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christopher-oyuga&theme=tokyonight&hide_border=true)
+
+---
+
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/christopher-oyuga/Christopher-Oyuga/blob/main/output/github-contribution-grid-snake.svg)
+![Snake animation](./output/github-contribution-grid-snake.svg)
+
+---
+
+### 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=christopher-oyuga&style=for-the-badge)
 
 ---
 
