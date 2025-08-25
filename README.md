@@ -21,6 +21,18 @@ HTML5 | CSS3 | JavaScript | Git | GitHub | React | Canva | Photoshop | Animation
 
 ---
 
+## 🏅 Badges & Profiles
+
+[![Frontend](https://img.shields.io/badge/Frontend-HTML5%20|%20CSS3%20|%20JS-blue)](https://github.com/christopher-oyuga)
+[![React](https://img.shields.io/badge/React-React-blue?logo=react&logoColor=white)](https://reactjs.org)
+[![Canva](https://img.shields.io/badge/Canva-Design-purple?logo=canva&logoColor=white)](https://www.canva.com)
+[![Photoshop](https://img.shields.io/badge/Photoshop-Design-blue?logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![YouTube](https://img.shields.io/badge/YouTube-Content-red?logo=youtube&logoColor=white)](https://www.youtube.com)
+
+[![GitHub followers](https://img.shields.io/github/followers/christopher-oyuga?label=Follow&style=social)](https://github.com/christopher-oyuga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-oyuga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=web&logoColor=white)](https://christopherportfolio-dun.vercel.app)
+
 ## 📊 GitHub Stats
 
 ### 🔥 Streak Stats
