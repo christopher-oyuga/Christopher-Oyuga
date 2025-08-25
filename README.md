@@ -11,8 +11,8 @@ Currently exploring **JavaScript**, **React**, and **backend technologies** to e
 - 🔭 I’m currently working on: My **Portfolio Website**  
 - 🌱 I’m learning: **React, Node.js, APIs**  
 - 👯 I’m looking to collaborate on: Open-source or exciting frontend projects  
-- 💬 Ask me about: **HTML, CSS, JavaScript, Web Design**  
-- 📫 Reach me: **[Your Email]** | **[LinkedIn]** | **[Portfolio](https://christopherportfolio-dun.vercel.app/)**  
+- 💬 Ask me about: **HTML, CSS, JavaScript, Web Design, Animation and Graohic Design-(CANVA,PHOTOSHOP..)**  
+- 📫 Reach me: christopheropyuga@gmail.com |linkeDin.about:bl| **[Portfolio](https://christopherportfolio-dun.vercel.app/)**  
 - ⚡ Fun fact: I enjoy solving coding challenges and exploring new web technologies  
 
 ---
