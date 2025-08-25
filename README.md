@@ -47,9 +47,8 @@ HTML5 | CSS3 | JavaScript | Git | GitHub | React | Canva | Photoshop | Animation
 ![Snake animation](./output/github-contribution-grid-snake.svg)
 
 ---
-
 ### 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=christopher-oyuga&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=christopher-oyuga&style=flat-square&color=0e75b6)
 
 
 ---
