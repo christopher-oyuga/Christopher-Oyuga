@@ -53,11 +53,6 @@ HTML5 | CSS3 | JavaScript | Git | GitHub | React | Canva | Photoshop | Animation
 ### 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=christopher-oyuga&style=for-the-badge)
 
----
-
-### 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=christopher-oyuga&style=for-the-badge)
-
 
 ---
 
