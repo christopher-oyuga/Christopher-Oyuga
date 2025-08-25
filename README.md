@@ -34,7 +34,7 @@ HTML5 | CSS3 | JavaScript | Git | GitHub | React | Canva | Photoshop | Animation
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=web&logoColor=white)](https://christopherportfolio-dun.vercel.app)
 
 ## 📊 GitHub Stats
-
+---
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christopher-oyuga&theme=tokyonight&hide_border=true)
 
@@ -55,4 +55,7 @@ HTML5 | CSS3 | JavaScript | Git | GitHub | React | Canva | Photoshop | Animation
 
 
 ---
-
+### 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/eA2AS8gb)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](https://christopherportfolio-dun.vercel.app)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopheroyga@gmail.com)
