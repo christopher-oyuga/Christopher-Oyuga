@@ -45,6 +45,13 @@ HTML5 | CSS3 | JavaScript | Git | GitHub | React | Canva | Photoshop | Animation
 
 ### 🐍 Contribution Snake
 ![Snake animation](./output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+<!-- Optional: GIF / PNG versions -->
+![GitHub Snake Animation](output/github-contribution-grid-snake.gif)
 
 ---
 ### 👀 Profile Visitors
